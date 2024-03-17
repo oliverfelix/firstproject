@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/firstproject/mlruns/0/9bb0fcab7cfb4f79a289e32986969ac4/artifacts
+end_time: 1710649711047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bb0fcab7cfb4f79a289e32986969ac4
+run_name: hilarious-seal-518
+run_uuid: 9bb0fcab7cfb4f79a289e32986969ac4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710649700598
+status: 3
+tags: []
+user_id: jayan
